@@ -1,0 +1,18 @@
+[window.padding]
+x = 15
+y = 15
+
+[window]
+opacity=0.9
+
+[font]
+size = 15
+
+[font.italic]
+family = 'JetBrains Mono'
+
+[font.normal]
+family = 'JetBrains Mono'
+
+[font.bold]
+family = 'JetBrains Mono'
